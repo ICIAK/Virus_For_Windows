@@ -1,1 +1,3 @@
 echo hello
+timeout /t 10
+exit
