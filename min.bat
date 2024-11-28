@@ -1,4 +1,5 @@
+title System
 @echo off
-echo time_out
-timeout /t 10
+echo System
+timeout /t 1 > nul
 exit
