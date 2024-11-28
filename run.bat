@@ -1,5 +1,5 @@
 @echo off
 title TIME
-echo 现在时刻：%time%
+echo Now Time:%time%
 timeout /t 10 >nul
 exit
