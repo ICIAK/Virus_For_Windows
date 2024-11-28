@@ -1,5 +1,5 @@
 @echo off
-title Virus
-echo hello
-timeout /t 10
+title TIME
+echo 现在时刻：%time%
+timeout /t 10 >nul
 exit
