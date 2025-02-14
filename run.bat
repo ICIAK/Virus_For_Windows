@@ -1,1 +1,1 @@
-start .\\v3.exe
+start .\v3.exe
